@@ -1,2 +1,2 @@
 # lab-agile-planning
-Lab agile planning with Zenhub
+Lab agile planning with github
